@@ -1,0 +1,6 @@
+#main.py
+...
+token = open("config", "r").readline()
+...
+
+bot.run(token)
